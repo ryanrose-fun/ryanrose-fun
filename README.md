@@ -1,16 +1,49 @@
-## Hi there 👋
+# Ryan Rose
+### Freelance Software Engineer · Rust, Python & C++
 
-<!--
-**ryanrose-fun/ryanrose-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems, native desktop software, API integrations and AI-assisted workflows. My work connects software engineering with the operational problems it needs to solve: reliable data, clear ownership and systems people can maintain.
 
-Here are some ideas to get you started:
+Based in **Hampshire, UK** · Available for **remote contracts and London hybrid work**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio & résumé](https://underpin.cloud/) · [Engineering case studies](https://underpin.cloud/engineering) · [Email me](mailto:ryan@underpin.cloud) · [LinkedIn](https://www.linkedin.com/in/ryan-rose-1516a1243/)
+
+## Selected engineering work
+
+| Project | Engineering focus | Explore |
+| --- | --- | --- |
+| **Rust Engine** | Payment reconciliation across internal and provider records; discrepancy reporting, traceable evidence, HTTP API and reproducible local performance tests. | [Case study](https://underpin.cloud/rust-engine) |
+| **Mural AI Radar Studio** | Native Windows C++ radar simulation with maritime scenarios, geospatial data and recorded exercises. | [Case study](https://underpin.cloud/projects-mural-radar-studio) |
+| **AI Acquisition** | Python and C++ integrations connecting collaboration tools, call activity and reporting workflows across a 200-person sales team. | [Case study](https://underpin.cloud/projects-ai-acquisition) |
+| **Toyzone** | Operational software linking product sourcing, inventory, shipping and delivery. | [Case study](https://underpin.cloud/projects-toyzone) |
+| **Telecom operations** | Engineer workflows, photo evidence, AI-assisted checks and completion reporting. | [Case study](https://underpin.cloud/projects-telecom-operations) |
+
+These links describe portfolio projects. They do not imply that client source code is publicly available; implementation status and evidence are documented in each case study.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Rust, Python, C++, TypeScript, JavaScript, SQL, C#, Java, Go |
+| Applications & integration | React, FastAPI, REST APIs, webhooks, backend and full-stack development |
+| Data | PostgreSQL, MySQL, DynamoDB, SQLite, ETL and data pipelines |
+| Cloud & delivery | AWS, Microsoft Azure, Docker, Kubernetes, Terraform, Git, GitHub Actions, CI/CD |
+| AI & automation | LLM workflows, agents, context retrieval, prompt design, n8n, Make, CRM integrations |
+
+## How I work
+
+- Clarify requirements, constraints and acceptance criteria before implementation.
+- Trace failures to their root cause; make focused changes and verify regressions.
+- Build validation, observable failure paths and appropriate human review into integrations.
+- Deliver documentation and a handover that another engineer can follow.
+
+## Engineering notes & public example
+
+- [Planning an API integration](https://underpin.cloud/guides-api-integration-project)
+- [Designing an AI workflow with human review](https://underpin.cloud/guides-ai-workflow-human-review)
+- [Python enquiry-review example](https://underpin.cloud/examples/enquiry_review.py) — a deterministic educational example using fictional data, with unit tests and no external services.
+
+## Contract enquiries
+
+For a software engineering contract, send the **scope, stack, expected duration and working arrangement** to **[ryan@underpin.cloud](mailto:ryan@underpin.cloud)**.
+
+[View my full portfolio and résumé →](https://underpin.cloud/)
