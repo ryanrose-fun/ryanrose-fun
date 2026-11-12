@@ -7,6 +7,16 @@ Based in **Hampshire, UK** · Available for **remote contracts and London hybrid
 
 [Portfolio & résumé](https://underpin.cloud/) · [Engineering case studies](https://underpin.cloud/engineering) · [Email me](mailto:ryan@underpin.cloud) · [LinkedIn](https://www.linkedin.com/in/ryan-rose-1516a1243/)
 
+## Start with the code
+
+| Repository | What to inspect |
+| --- | --- |
+| [**Rust reconciliation engine**](https://github.com/ryanrose-fun/rust-reconciliation-engine) | Snapshot and event reconciliation, transactional SQLite persistence, an HTTP API, bounded admission and reproducible benchmarks. |
+| [**C++ worker lifecycle**](https://github.com/ryanrose-fun/cpp-worker-lifecycle) | A focused C++20 demonstration of ownership, backpressure, safe shutdown, concurrent producers and Windows debugging. |
+| [**Work Orders API**](https://github.com/ryanrose-fun/work-orders-api) | A FastAPI/PostgreSQL demonstration with migrations, authentication, validation and optimistic concurrency. |
+
+Each repository includes setup instructions, design decisions, tests and CI. The C++ and FastAPI repositories are standalone portfolio demonstrations; client source code remains private.
+
 ## Commercial experience. Engineering focus.
 
 | **10+** | **2,000+** | **$200M+** | **$50M+** |
