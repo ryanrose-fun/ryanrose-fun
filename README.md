@@ -40,7 +40,7 @@ These links describe portfolio projects. They do not imply that client source co
 
 - [Planning an API integration](https://underpin.cloud/guides-api-integration-project)
 - [Designing an AI workflow with human review](https://underpin.cloud/guides-ai-workflow-human-review)
-- [Python enquiry-review example](https://underpin.cloud/examples/enquiry_review.py) — a deterministic educational example using fictional data, with unit tests and no external services.
+- [Python enquiry-review example](https://github.com/ryanrose-fun/python-enquiry-review) — a deterministic educational example using fictional data, with unit tests and no external services.
 
 ## Contract enquiries
 
