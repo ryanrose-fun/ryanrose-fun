@@ -7,6 +7,20 @@ Based in **Hampshire, UK** · Available for **remote contracts and London hybrid
 
 [Portfolio & résumé](https://underpin.cloud/) · [Engineering case studies](https://underpin.cloud/engineering) · [Email me](mailto:ryan@underpin.cloud) · [LinkedIn](https://www.linkedin.com/in/ryan-rose-1516a1243/)
 
+## Commercial experience. Engineering focus.
+
+| **10+** | **2,000+** | **$200M+** | **$50M+** |
+| --- | --- | --- | --- |
+| Years of experience | Clients supported | Growth driven | Career portfolio fundraising |
+
+*Self-reported career and team figures; not outcomes solely attributable to my engineering.* [Read my project contributions ↗](https://underpin.cloud/engineering)
+
+## Who I’ve worked with
+
+Experience and collaborations featured on my résumé website include **Ethereum, Mythical, Swift, NinjaTrader, Pall Corporation, Lakeside North Harbour, Etsy, AI Acquisition, ToyZone, Flare, Wintermute and Karate Combat**.
+
+[Explore my experience and collaborations →](https://underpin.cloud/)
+
 ## Selected engineering work
 
 | Project | Engineering focus | Explore |
