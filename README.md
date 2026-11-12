@@ -13,7 +13,6 @@ Based in **Hampshire, UK** · Available for **remote contracts and London hybrid
 | --- | --- | --- | --- |
 | Years of experience | Clients supported | Growth driven | Career portfolio fundraising |
 
-*Self-reported career and team figures; not outcomes solely attributable to my engineering.* [Read my project contributions ↗](https://underpin.cloud/engineering)
 
 ## Who I’ve worked with
 
