@@ -13,7 +13,7 @@ Based in **Hampshire, UK** · Available for **remote contracts and London hybrid
 | --- | --- |
 | [**Rust reconciliation engine**](https://github.com/ryanrose-fun/rust-reconciliation-engine) | Snapshot and event reconciliation, transactional SQLite persistence, an HTTP API, bounded admission and reproducible benchmarks. |
 | [**C++ worker lifecycle**](https://github.com/ryanrose-fun/cpp-worker-lifecycle) | A focused C++20 demonstration of ownership, backpressure, safe shutdown, concurrent producers and Windows debugging. |
-| [**Work Orders API**](https://github.com/ryanrose-fun/work-orders-api) | A FastAPI/PostgreSQL demonstration with migrations, authentication, validation and optimistic concurrency. |
+| [**Work Orders API + React console**](https://github.com/ryanrose-fun/work-orders-api) | A TypeScript interface backed by FastAPI: create orders, change status, validate input and recover safely from concurrent edits. |
 
 Each repository includes setup instructions, design decisions, tests and CI. The C++ and FastAPI repositories are standalone portfolio demonstrations; client source code remains private.
 
@@ -60,6 +60,10 @@ These links describe portfolio projects. They do not imply that client source co
 - Deliver documentation and a handover that another engineer can follow.
 
 ## Engineering notes & public example
+
+- [React interface and concurrency decisions](https://github.com/ryanrose-fun/work-orders-api/blob/main/docs/decisions.md) — why stale edits require a reload, and why uncertain creates are not automatically retried.
+- [Reproducible Windows crash-dump walkthrough](https://github.com/ryanrose-fun/cpp-worker-lifecycle/blob/main/docs/debugging.md) — generate a synthetic access violation, preserve matching symbols, inspect it in WinDbg and test the shutdown fix.
+- [SQLite and backpressure trade-offs](https://github.com/ryanrose-fun/rust-reconciliation-engine/blob/main/docs/DECISIONS.md) — durable acknowledgements, bounded queues and timeout semantics.
 
 - [Planning an API integration](https://underpin.cloud/guides-api-integration-project)
 - [Designing an AI workflow with human review](https://underpin.cloud/guides-ai-workflow-human-review)
