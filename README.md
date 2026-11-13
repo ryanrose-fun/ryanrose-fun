@@ -61,6 +61,8 @@ These links describe portfolio projects. They do not imply that client source co
 
 ## Engineering notes & public example
 
+- [Rust financial ledger](https://github.com/ryanrose-fun/rust-reconciliation-engine/blob/main/docs/LEDGER.md) — double-entry settlement, exact monetary amounts, atomic commits, idempotency and reversal tests.
+
 - [React interface and concurrency decisions](https://github.com/ryanrose-fun/work-orders-api/blob/main/docs/decisions.md) — why stale edits require a reload, and why uncertain creates are not automatically retried.
 - [Reproducible Windows crash-dump walkthrough](https://github.com/ryanrose-fun/cpp-worker-lifecycle/blob/main/docs/debugging.md) — generate a synthetic access violation, preserve matching symbols, inspect it in WinDbg and test the shutdown fix.
 - [SQLite and backpressure trade-offs](https://github.com/ryanrose-fun/rust-reconciliation-engine/blob/main/docs/DECISIONS.md) — durable acknowledgements, bounded queues and timeout semantics.
