@@ -11,7 +11,7 @@ Based in **Hampshire, UK** · Available for **remote contracts and London hybrid
 
 | Repository | What to inspect |
 | --- | --- |
-| [**Rust reconciliation engine**](https://github.com/ryanrose-fun/rust-reconciliation-engine) | Snapshot and event reconciliation, transactional SQLite persistence, an HTTP API, bounded admission and reproducible benchmarks. |
+| [**Rust GPU Finance**](https://github.com/ryanrose-fun/rust-gpu-finance) | GPU-resident payment reconciliation, durable Kafka ingestion, restart recovery and reproducible million-payment benchmarks. |
 | [**C++ worker lifecycle**](https://github.com/ryanrose-fun/cpp-worker-lifecycle) | A focused C++20 demonstration of ownership, backpressure, safe shutdown, concurrent producers and Windows debugging. |
 | [**Work Orders API + React console**](https://github.com/ryanrose-fun/work-orders-api) | A TypeScript interface backed by FastAPI: create orders, change status, validate input and recover safely from concurrent edits. |
 
@@ -34,7 +34,7 @@ Experience and collaborations featured on my résumé website include **Ethereum
 
 | Project | Engineering focus | Explore |
 | --- | --- | --- |
-| **Rust Engine** | Payment reconciliation across internal and provider records; discrepancy reporting, traceable evidence, HTTP API and reproducible local performance tests. | [Case study](https://underpin.cloud/rust-engine) |
+| **Rust GPU Finance** | Rust and GPU payment reconciliation across internal and provider events; Kafka streaming, discrepancy reporting, durable recovery and measured million-payment workloads. | [Case study](https://underpin.cloud/rust-engine) |
 | **Mural AI Radar Studio** | Native Windows C++ radar simulation with maritime scenarios, geospatial data and recorded exercises. | [Case study](https://underpin.cloud/projects-mural-radar-studio) |
 | **AI Acquisition** | Python and C++ integrations connecting collaboration tools, call activity and reporting workflows across a 200-person sales team. | [Case study](https://underpin.cloud/projects-ai-acquisition) |
 | **Toyzone** | Operational software linking product sourcing, inventory, shipping and delivery. | [Case study](https://underpin.cloud/projects-toyzone) |
@@ -61,11 +61,11 @@ These links describe portfolio projects. They do not imply that client source co
 
 ## Engineering notes & public example
 
-- [Rust financial ledger](https://github.com/ryanrose-fun/rust-reconciliation-engine/blob/main/docs/LEDGER.md) — double-entry settlement, exact monetary amounts, atomic commits, idempotency and reversal tests.
+- [Rust financial ledger](https://github.com/ryanrose-fun/rust-gpu-finance/blob/main/docs/LEDGER.md) — double-entry settlement, exact monetary amounts, atomic commits, idempotency and reversal tests.
 
 - [React interface and concurrency decisions](https://github.com/ryanrose-fun/work-orders-api/blob/main/docs/decisions.md) — why stale edits require a reload, and why uncertain creates are not automatically retried.
 - [Reproducible Windows crash-dump walkthrough](https://github.com/ryanrose-fun/cpp-worker-lifecycle/blob/main/docs/debugging.md) — generate a synthetic access violation, preserve matching symbols, inspect it in WinDbg and test the shutdown fix.
-- [SQLite and backpressure trade-offs](https://github.com/ryanrose-fun/rust-reconciliation-engine/blob/main/docs/DECISIONS.md) — durable acknowledgements, bounded queues and timeout semantics.
+- [SQLite and backpressure trade-offs](https://github.com/ryanrose-fun/rust-gpu-finance/blob/main/docs/DECISIONS.md) — durable acknowledgements, bounded queues and timeout semantics.
 
 - [Planning an API integration](https://underpin.cloud/guides-api-integration-project)
 - [Designing an AI workflow with human review](https://underpin.cloud/guides-ai-workflow-human-review)
